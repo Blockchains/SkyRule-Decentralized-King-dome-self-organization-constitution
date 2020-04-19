@@ -1,4 +1,6 @@
-# README
+![Crest of SkyRule](https://github.com/DeFi-Coder-News-Letter/SkyRule-Decentralized-Kingdom-self-organization-constitution/blob/master/Crest%20of%20Skyrule.jpg)
+
+# SkyRule DeCent Kingdom Constitution README
 
 The primary self-organization constitution document is [here](CONSTITUTION.md).
 

@@ -1,6 +1,6 @@
 # README
 
-
+(Crest of Skyrule.jpg)
 
 The primary self-organization constitution document is [here](CONSTITUTION.md).
 
